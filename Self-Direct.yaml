@@ -1,0 +1,11 @@
+payload:
+  # > 
+  - DOMAIN-SUFFIX,990226.xyz
+  
+  # > PT site
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,hares.top
+
+  # > Others
+  - DOMAIN-SUFFIX,x6d.com
