@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,piggo.me
 
 # > Others
   - DOMAIN-SUFFIX,is.gd
