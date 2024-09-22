@@ -7,3 +7,4 @@ HOST-SUFFIX,piggo.me,Self-Proxy
 
 # > Others
 HOST-SUFFIX,is.gd,Self-Proxy
+HOST-SUFFIX,cloudflare.com,Self-Proxy
